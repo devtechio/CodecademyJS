@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "d968db8c4cca0783",
+    "type": "split",
+    "children": [
+      {
+        "id": "36cca04935b92ffc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "600087003ad3cb8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codecademy jS/Iterators/Higher Order Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86c48bad04823154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codecademy jS/Iterators/Array Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73c334f38efb34f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "936aa2574fbd6694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d86c83766fecd4ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f5388699ab71cb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24148f5efdc25396",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "codecademy jS/Arrays"
+              }
+            }
+          },
+          {
+            "id": "82f4c0d5f933babe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc010c09d75b2887",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3de70787bf434358",
+    "type": "split",
+    "children": [
+      {
+        "id": "8932248f50264acf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e806f91d25896b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "codecademy jS/Iterators/Array Methods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "faf7465a1aee1f5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "codecademy jS/Iterators/Array Methods.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a172d5cbc1af337",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bbe948b6bf790bbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "codecademy jS/Iterators/Array Methods.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "86c48bad04823154",
+  "lastOpenFiles": [
+    "codecademy jS/Iterators/Higher Order Functions.md",
+    "codecademy jS/Iterators/Array Methods.md",
+    "Screenshot 2023-03-14 at 12.57.13 PM.png",
+    "PNG image.png",
+    "codecademy jS/Functions/Parameters and Arguments.md",
+    "codecademy jS/Functions/JS Functions.md",
+    "codecademy jS/Functions/Hoisting.md",
+    "codecademy jS/Functions/Function Expressions.md",
+    "codecademy jS/Functions/Return.md",
+    "codecademy jS/Untitled",
+    "codecademy jS/Arrays/Arrays.md",
+    "codecademy jS/Scope/Blocks and Scope.md",
+    "codecademy jS/Loops/Loops.md",
+    "codecademy jS/Iterators",
+    "codecademy jS/Loops",
+    "Untitled.md",
+    "codecademy jS/Arrays",
+    "codecademy jS/Functions/Function Review.md",
+    "codecademy jS/Scope",
+    "codecademy jS/Functions/Arrow Functions.md",
+    "codecademy jS/imgs/screenshots/function/parameters_arrow_functions.png",
+    "codecademy jS/imgs/screenshots/function/consise_arrow_functions.png",
+    "codecademy jS/imgs/screenshots/function/Screenshot 2023-03-12 at 10.28.36 AM.png",
+    "codecademy jS/imgs/screenshots/function/function_call.png",
+    "codecademy jS/imgs/screenshots/function/function_parameters.png",
+    "codecademy jS/imgs/screenshots/function/function_arguments.png",
+    "codecademy jS/imgs/screenshots/function/function_returning_undefined.png",
+    "codecademy jS/imgs/screenshots/function/function_return_keyword_value.png",
+    "codecademy jS/imgs/screenshots/function",
+    "codecademy jS/Untitled.md",
+    "codecademy jS/Functions",
+    "codecademy jS/imgs/screenshots",
+    "codecademy jS/imgs",
+    "Paste.md",
+    "Context"
+  ]
+}
