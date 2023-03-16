@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "36cca04935b92ffc",
+        "id": "0128ff518b3f9a21",
         "type": "tabs",
         "children": [
           {
-            "id": "600087003ad3cb8f",
+            "id": "ead47d8a39039909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codecademy jS/Iterators/Higher Order Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86c48bad04823154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "codecademy jS/Iterators/Array Methods.md",
+                "file": "codecademy jS/Advanced Objects /Built-in Object Methods/Built-in Object Methods.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,11 +83,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 374.5086555480957
   },
   "right": {
     "id": "3de70787bf434358",
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codecademy jS/Iterators/Array Methods.md",
+                "file": "codecademy jS/Advanced Objects /Built-in Object Methods/Built-in Object Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codecademy jS/Iterators/Array Methods.md",
+                "file": "codecademy jS/Advanced Objects /Built-in Object Methods/Built-in Object Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codecademy jS/Iterators/Array Methods.md"
+                "file": "codecademy jS/Advanced Objects /Built-in Object Methods/Built-in Object Methods.md"
               }
             }
           }
@@ -177,10 +165,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86c48bad04823154",
+  "active": "dc010c09d75b2887",
   "lastOpenFiles": [
-    "codecademy jS/Iterators/Higher Order Functions.md",
+    "LS - Introduction to Programming with JavaScript ",
+    "codecademy jS/Advanced Objects /Built-in Object Methods/Built-in Object Methods.md",
+    "codecademy jS/Advanced Objects / Destructuring/Property Value Shorthand.md",
+    "codecademy jS/Advanced Objects /Built-in Object Methods",
+    "codecademy jS/Advanced Objects /Property Value Shorthand/Property Value Shorthand.md",
+    "codecademy jS/Advanced Objects /Property Value Shorthand",
+    "codecademy jS/Advanced Objects /Factory Functions/Factory Functions .md",
+    "codecademy jS/Advanced Objects /Factory Functions",
+    "codecademy jS/Advanced Objects /Privacy Getters Setters/Privacy.md",
+    "codecademy jS/Advanced Objects /Privacy Getters Setters",
+    "codecademy jS/Advanced Objects / This /This .md",
+    "codecademy jS/Advanced Objects / Destructuring",
+    "codecademy jS/Advanced Objects / This ",
+    "codecademy jS/Advanced Objects ",
+    "codecademy jS/Objects/Objects.md",
     "codecademy jS/Iterators/Array Methods.md",
+    "codecademy jS/Iterators/Higher Order Functions.md",
+    "Context",
+    "codecademy jS/Objects/context.mdb",
+    "codecademy jS/Objects",
     "Screenshot 2023-03-14 at 12.57.13 PM.png",
     "PNG image.png",
     "codecademy jS/Functions/Parameters and Arguments.md",
@@ -188,16 +194,11 @@
     "codecademy jS/Functions/Hoisting.md",
     "codecademy jS/Functions/Function Expressions.md",
     "codecademy jS/Functions/Return.md",
-    "codecademy jS/Untitled",
     "codecademy jS/Arrays/Arrays.md",
     "codecademy jS/Scope/Blocks and Scope.md",
     "codecademy jS/Loops/Loops.md",
-    "codecademy jS/Iterators",
-    "codecademy jS/Loops",
     "Untitled.md",
-    "codecademy jS/Arrays",
     "codecademy jS/Functions/Function Review.md",
-    "codecademy jS/Scope",
     "codecademy jS/Functions/Arrow Functions.md",
     "codecademy jS/imgs/screenshots/function/parameters_arrow_functions.png",
     "codecademy jS/imgs/screenshots/function/consise_arrow_functions.png",
@@ -207,12 +208,7 @@
     "codecademy jS/imgs/screenshots/function/function_arguments.png",
     "codecademy jS/imgs/screenshots/function/function_returning_undefined.png",
     "codecademy jS/imgs/screenshots/function/function_return_keyword_value.png",
-    "codecademy jS/imgs/screenshots/function",
     "codecademy jS/Untitled.md",
-    "codecademy jS/Functions",
-    "codecademy jS/imgs/screenshots",
-    "codecademy jS/imgs",
-    "Paste.md",
-    "Context"
+    "Paste.md"
   ]
 }

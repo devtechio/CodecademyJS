@@ -33,14 +33,15 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "codecademy jS",
-      "codecademy jS/Arrays"
+      "codecademy jS/Advanced Objects / This / Destructuring",
+      "codecademy jS/Advanced Objects /Built-in Object Methods",
+      "codecademy jS/Advanced Objects "
     ]
   },
   "expandedSpaces": [
-    "/",
     null,
-    null
+    null,
+    "/"
   ],
   "folderRank": {
     "node": "root",
